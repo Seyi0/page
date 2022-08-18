@@ -17,7 +17,7 @@ const Home = () => {
   return (
     <>
       <div className="p-4 box mt-3 text-center">
-        Hello Welcome
+      
         This an authorization app
          <br />
         {user && user.email}
